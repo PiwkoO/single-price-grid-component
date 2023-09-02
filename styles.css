@@ -57,7 +57,7 @@ div.bg-bright {
   background-color: hsla(0, 0%, 100%, 0.15);
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-weight: 700;
   letter-spacing: -0.025rem;
 }
@@ -74,7 +74,7 @@ h2 {
   color: var(--white);
 }
 
-h3 {
+h2.subheading {
   margin-bottom: 16px;
   font-size: 1.5rem;
   line-height: 2rem;
@@ -167,11 +167,11 @@ button:hover {
     letter-spacing: -0.03rem;
   }
 
-  h2, h3 {
+  h2 {
     letter-spacing: -0.0225rem;
   }
 
-  h3 {
+  h2.subheading {
     margin-bottom: 11px;
     font-size: 1.8rem;
   }
