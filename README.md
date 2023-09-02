@@ -21,7 +21,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
+- See a hover state on desktop for the "Sign Up" call-to-action
 
 ### Screenshot
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/single-price-grid-component-YZUTQu-8Wq)
+- [Live preview](https://piwkoo.github.io/single-price-grid-component/)
 
 ## My process
 
